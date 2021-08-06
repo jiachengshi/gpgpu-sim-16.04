@@ -1,1 +1,1 @@
-# gpgpu-sim-18.04
+# gpgpu-sim-16.04
